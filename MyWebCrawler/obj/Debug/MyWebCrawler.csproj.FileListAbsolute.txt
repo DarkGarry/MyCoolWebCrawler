@@ -1,0 +1,7 @@
+C:\igor\Projects\TestProjects\MyWebCrawler\MyWebCrawler\bin\Debug\MyWebCrawler.exe.config
+C:\igor\Projects\TestProjects\MyWebCrawler\MyWebCrawler\bin\Debug\MyWebCrawler.exe
+C:\igor\Projects\TestProjects\MyWebCrawler\MyWebCrawler\bin\Debug\MyWebCrawler.pdb
+C:\igor\Projects\TestProjects\MyWebCrawler\MyWebCrawler\obj\Debug\MyWebCrawler.csprojAssemblyReference.cache
+C:\igor\Projects\TestProjects\MyWebCrawler\MyWebCrawler\obj\Debug\MyWebCrawler.csproj.CoreCompileInputs.cache
+C:\igor\Projects\TestProjects\MyWebCrawler\MyWebCrawler\obj\Debug\MyWebCrawler.exe
+C:\igor\Projects\TestProjects\MyWebCrawler\MyWebCrawler\obj\Debug\MyWebCrawler.pdb

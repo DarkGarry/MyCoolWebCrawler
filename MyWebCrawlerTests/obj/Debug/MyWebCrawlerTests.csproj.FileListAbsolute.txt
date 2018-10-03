@@ -1,0 +1,17 @@
+C:\igor\Projects\TestProjects\MyWebCrawler\MyWebCrawlerTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\igor\Projects\TestProjects\MyWebCrawler\MyWebCrawlerTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\igor\Projects\TestProjects\MyWebCrawler\MyWebCrawlerTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\igor\Projects\TestProjects\MyWebCrawler\MyWebCrawlerTests\bin\Debug\MyWebCrawlerTests.dll
+C:\igor\Projects\TestProjects\MyWebCrawler\MyWebCrawlerTests\bin\Debug\MyWebCrawlerTests.pdb
+C:\igor\Projects\TestProjects\MyWebCrawler\MyWebCrawlerTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\igor\Projects\TestProjects\MyWebCrawler\MyWebCrawlerTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\igor\Projects\TestProjects\MyWebCrawler\MyWebCrawlerTests\bin\Debug\MyWebCrawler.exe
+C:\igor\Projects\TestProjects\MyWebCrawler\MyWebCrawlerTests\bin\Debug\MyWebCrawler.pdb
+C:\igor\Projects\TestProjects\MyWebCrawler\MyWebCrawlerTests\bin\Debug\MyWebCrawler.exe.config
+C:\igor\Projects\TestProjects\MyWebCrawler\MyWebCrawlerTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\igor\Projects\TestProjects\MyWebCrawler\MyWebCrawlerTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\igor\Projects\TestProjects\MyWebCrawler\MyWebCrawlerTests\obj\Debug\MyWebCrawlerTests.csprojAssemblyReference.cache
+C:\igor\Projects\TestProjects\MyWebCrawler\MyWebCrawlerTests\obj\Debug\MyWebCrawlerTests.csproj.CoreCompileInputs.cache
+C:\igor\Projects\TestProjects\MyWebCrawler\MyWebCrawlerTests\obj\Debug\MyWebCrawlerTests.csproj.CopyComplete
+C:\igor\Projects\TestProjects\MyWebCrawler\MyWebCrawlerTests\obj\Debug\MyWebCrawlerTests.dll
+C:\igor\Projects\TestProjects\MyWebCrawler\MyWebCrawlerTests\obj\Debug\MyWebCrawlerTests.pdb
